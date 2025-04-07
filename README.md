@@ -109,7 +109,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/nophysicsjustmagic/mtz.git
+   git clone git@github.com:ITech7750/mtz.git
    cd mtz
    ```
 
